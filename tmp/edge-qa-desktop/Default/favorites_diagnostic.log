@@ -1,0 +1,18 @@
+2026-10-04 19:21:56.291: [INFO] CurrentProfilePath: C:\Users\Not Dell\Desktop\projetos\beca-carneiro-portifolio\tmp\edge-qa-desktop\Default
+2026-10-04 19:21:56.291: [INFO] Profiles total count: 1
+2026-10-04 19:21:56.291: [INFO] Profile: name=Perfil 1 path=C:\Users\Not Dell\Desktop\projetos\beca-carneiro-portifolio\tmp\edge-qa-desktop\Default lastActive=2026-10-04T19:21:56.233Z
+2026-10-04 19:21:56.291: [INFO] LastUsedProfileDir: C:\Users\Not Dell\Desktop\projetos\beca-carneiro-portifolio\tmp\edge-qa-desktop\Default
+2026-10-04 19:21:56.291: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Not Dell\Desktop\projetos\beca-carneiro-portifolio\tmp\edge-qa-desktop\Default lastActive=2026-10-04T19:21:56.233Z
+2026-10-04 19:21:56.291: [INFO] OnDoneLoading sync enabled: 0
+2026-10-04 19:21:56.291: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-04 19:21:56.291: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-04 19:21:56.292: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 19:21:57.550: [INFO] VisibilityChanged: 0
+2026-10-04 19:22:05.126: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-10-04 19:22:05.144: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-04 19:22:05.156: [INFO] Primary account changed.
+2026-10-04 19:22:05.156: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-10-04 19:22:05.188: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-04 19:22:09.178: [INFO] BookmarkBarPrefChanged showBar=0 showBarNTP=1
+2026-10-04 19:22:09.771: [INFO] Sync initialization duration: 3954ms
+2026-10-04 19:22:42.742: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
